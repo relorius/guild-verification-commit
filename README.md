@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-05T17:26:12.391Z
-Commit: Add dark mode support
+Timestamp: 2026-03-05T21:30:59.673Z
+Commit: Add export functionality for reports
